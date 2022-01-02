@@ -18,7 +18,7 @@ Let’s get started, shall we?
 
 2.  Watch the [video of this talk](https://www.youtube.com/watch?v=zQJ5dxCvniU) 
 
-3.  Watch the [“Train the Trainer”](https://www.youtube.com/watch?v=bWjPl-cKzFs) video, a slide by slide breakdown of possible stories, concepts or ideas that you should ideally try to explain.
+3.  Watch the [“Train the Trainer”](https://youtu.be/tZfWMyxvKew) video, a slide by slide breakdown of possible stories, concepts or ideas that you should ideally try to explain.
 
 This presentation is just talking, no demos.  You only need the slide deck and a screen. 
 
@@ -27,7 +27,7 @@ This presentation is just talking, no demos.  You only need the slide deck and a
 - This guide
 - PowerPoint presentation including notes for each slide (in this folder)
 - Full-length recording of presentation [here](https://www.youtube.com/watch?v=zQJ5dxCvniU)
-- Recorded “Train the Trainer” session [here](https://www.youtube.com/watch?v=bWjPl-cKzFs)
+- Recorded “Train the Trainer” session [here](https://youtu.be/tZfWMyxvKew)
 
 
 # Session Abstract (Use this to apply to speak somewhere)
@@ -179,7 +179,7 @@ Q & A - this can take up to 20 minutes, budget an hour for this talk + Q&A, if p
 Train the Trainer Video
 =======================
 
-Recorded Train-The-Trainer session [here](https://www.youtube.com/watch?v=bWjPl-cKzFs)
+Recorded Train-The-Trainer session [here](https://youtu.be/tZfWMyxvKew)
 
 
 ## Resources for Audience 
