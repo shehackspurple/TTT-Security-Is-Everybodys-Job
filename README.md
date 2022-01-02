@@ -80,21 +80,21 @@ Let’s dig in, shall we?
 
 1. (left -> right speed) (show SDLC)
 Emphasize the efficiency of the entire system, not just one part.
-	▪	This means that Security CANNOT slow down or stop the entire pipeline (pulling the Andon Cord), unless it's a true emergency. 
-	▪	This means Security learning to sprint, just like Ops and Dev.
-	▪	Focus on improving ALL value streams, and how securing the final product and network offer value to all other steams.  
+* This means that Security CANNOT slow down or stop the entire pipeline (pulling the Andon Cord), unless it's a true emergency. 
+* This means Security learning to sprint, just like Ops and Dev.
+* Focus on improving ALL value streams, and how securing the final product and network offer value to all other steams.  
 
 What does this mean for developers? 
 Efficiency and automation (of security activities)
-	▪	Helping AppSec team tune web proxy scanners such as Zap, Burp and SonarCube - addressing issues it finds
-	▪	Helping the AppSec team tune static code analysis tools (brakeman, Fortify, name more)
-	▪	Add the bugs to the defect tracker, and don’t mark them as “fixed” when the appsec team isn’t looking 
-	▪	Using templates and code samples that a known-secure (sec code library), reused code that has already had security testing performed on them
-	▪	Using rescanned images that are up to date/fully patched
-	▪	Repo Kid and other permission-reducing activities, for least priv from Netflix, be ready for changes
-	▪	Add negative use cases as unit tests, not just positive use cases
-	▪	If the AppSec team creates a security pipeline for testing for you, use it!
-	▪	OWASP Dependency check, Retire.js, and tools to remove known vulnerable code/libraries/components
+* Helping AppSec team tune web proxy scanners such as Zap, Burp and SonarCube - addressing issues it finds
+* Helping the AppSec team tune static code analysis tools (brakeman, Fortify, name more)
+* Add the bugs to the defect tracker, and don’t mark them as “fixed” when the appsec team isn’t looking 
+* Using templates and code samples that a known-secure (sec code library), reused code that has already had security testing performed on them
+* Using rescanned images that are up to date/fully patched
+* Repo Kid and other permission-reducing activities, for least priv from Netflix, be ready for changes
+* Add negative use cases as unit tests, not just positive use cases
+* If the AppSec team creates a security pipeline for testing for you, use it!
+* OWASP Dependency check, Retire.js, and tools to remove known vulnerable code/libraries/components
  
 
 2. (left <- right - feedback)
@@ -105,15 +105,15 @@ Ways to do this:
 
 What does this mean for developers? 
 Faster feedback loops (of security related events and activities)
-	▪	Check all apps for things found in each pentest result, add these tests to unit tests
-	▪	Rename insecure functions or libraries as “insecure” with a wrapper, so programmers see immediately that there is an issue.
-	▪	Performing security sprints
-	▪	Participating in Threat modelling activities if the AppSec team asks you for help
-	▪	Participating in security incidents and investigations if need be
-	▪	Informing the security team what Dev and Ops are concerned about, so they can ensure they don’t negatively affect those things, feedback 
-	▪	 if security tests fail, the continuous integration server must break the build.  Just like quality tests.
-	▪	Learning to use security tools, and how to use their feedback immediately to improve code quality
-	▪	Use the security pipeline to test your code
+* Check all apps for things found in each pentest result, add these tests to unit tests
+* Rename insecure functions or libraries as “insecure” with a wrapper, so programmers see immediately that there is an issue.
+* Performing security sprints
+* Participating in Threat modelling activities if the AppSec team asks you for help
+* Participating in security incidents and investigations if need be
+* Informing the security team what Dev and Ops are concerned about, so they can ensure they don’t negatively affect those things, feedback 
+* If security tests fail, the continuous integration server must break the build.  Just like quality tests.
+* Learning to use security tools, and how to use their feedback immediately to improve code quality
+* Use the security pipeline to test your code
 
 
 3 (full circle - continuous learning) 
@@ -130,7 +130,7 @@ Enabling and encouraging Continual experimentation, risk taking and learning fro
 Fostering the understanding repetition and practice is the prerequisite to mastery: 
 * Incident simulations: practice makes perfect
 * Repeat secure coding training
-	▪	If the metrics from the AppSec team show there are repetitive issues, create workshops, ensure everyone learns
+* If the metrics from the AppSec team show there are repetitive issues, create workshops, ensure everyone learns
 
 
 
@@ -162,8 +162,8 @@ shortening and amplifying all feedback loops, and embedding knowledge where we n
 
 
 Reinforce the new culture that security is everybody’s job
-	▪	Celebrate when you pass a pentest or pass through the security pipeline for the first time with no highs or mediums
-	▪	steal slides from insecurity in information technology
+* Celebrate when you pass a pentest or pass through the security pipeline for the first time with no highs or mediums
+
 
 What does this mean for culture change? 
 Developers will need to perform some security activities, and will receive different types of support, as we build security into each of “the three ways”.
