@@ -4,7 +4,7 @@ This repository will teach you got to present my talk "Security is everybody's j
 
 # Security is Everybody's Job!
 
-This is a “Train the Trainer” document, to be used by someone who wants to present this talk for an audience.  If you were hoping to learn more about this topic, and not to learn how to present this talk, stop reading this document and do this instead: 1) watch the [video of this talk](https://www.youtube.com/watch?v=zQJ5dxCvniU), 2) read the [blog series](https://wehackpurple.com/security-is-everybodys-job-part-1-devsecops/) based on this talk and 3) follow the author of this talk to continue learning about this topic, [Tanya Janca](https://twitter.com/shehackspurple).  Thanks!
+This is a “Train the Trainer” document, to be used by someone who wants to present this talk for an audience.  If you were hoping to learn more about this topic, and not to learn how to present this talk, stop reading this document and do this instead: 1) watch the [video of this talk](https://www.youtube.com/watch?v=zQJ5dxCvniU), 2) read the [blog series](https://wehackpurple.com/security-is-everybodys-job-part-1-devsecops/) based on this talk and 3) follow the author of this talk to continue learning about this topic, [Tanya Janca](https://twitter.com/shehackspurple).  I also wrote a blog series on this topic as well, for more in-depth knowledge on this topic, [you can read it here](https://wehackpurple.com/security-is-everybodys-job-part-1-devsecops/). Thanks!
 
 ## How To Use
 
